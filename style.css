@@ -1,0 +1,23 @@
+ul.a {
+    float: left;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+  }
+
+  li.a1 {
+    display: block;
+    text-decoration: none;
+    float:left;
+    font-size:150%;
+    margin-left: 20px;
+    font-family: monospace;
+  }
+  nav.n1{
+    overflow: hidden;
+    width: 700px;
+    margin: auto;
+    }
+  
+  
